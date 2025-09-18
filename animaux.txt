@@ -1,4 +1,5 @@
 chien
+pelican
 chat
 giraffe
 poussin
