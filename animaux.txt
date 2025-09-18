@@ -2,6 +2,7 @@ chien
 chat
 singe
 pelican
+tortue
 giraffe
 poussin
 
