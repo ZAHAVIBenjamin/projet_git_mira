@@ -1,6 +1,7 @@
 chien
 chat
 singe
+pelican
 giraffe
 poussin
 
